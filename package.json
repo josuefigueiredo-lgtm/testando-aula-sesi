@@ -1,0 +1,14 @@
+{
+  "name": "assistente-pedagogico",
+  "version": "2.0.0",
+  "description": "Sistema de gestão pedagógica SENAI: turmas, alunos, professores, horários e planos de aula",
+  "main": "server.js",
+  "scripts": { "start": "node server.js" },
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "dotenv": "^17.4.2",
+    "express": "^5.2.1",
+    "mysql2": "^3.11.0"
+  }
+}
